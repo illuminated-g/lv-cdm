@@ -1,0 +1,38 @@
+{
+  "Home":{
+    "Meta":{
+      "Author":"dbommarito",
+      "Site":"Home",
+      "Test":"Naptime"
+    },
+    "Albus":{
+      "IP":{"Value":"192.168.42.14"}
+    },
+    "Brevis":{
+      "IP":{"Value":"192.168.42.17"}
+    },
+    "Legio":{
+      "IP":{"Value":"192.168.42.23"}
+    },
+    "Mux":{
+      "Lower":{
+        "IP":{"Value":"192.168.42.12"},
+        "Inputs":{
+          "Value":"Desktop 1,Desktop 2,Desktop 3,Dock 1,Dock 2,Capture,Unused,Mux In"
+        },
+        "Outputs":{
+          "Value":"Main L,Main C,Main R,Work L,Work R,NC 6,NC 7,Mux Out"
+        }
+      },
+      "Upper":{
+        "IP":{"Value":"192.168.42.13"},
+        "Inputs":{
+          "Value":"BluRay,NC 2,NC 3,NC 4,NC 5,Capture,Unused,Mux In"
+        },
+        "Outputs":{
+          "Value":"Main L,Main C,Main R,Work L,Work R,NC 1,Capture,Mux Out"
+        }
+      }
+    }
+  }
+}
