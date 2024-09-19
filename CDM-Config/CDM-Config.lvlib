@@ -21,6 +21,7 @@
 	</Item>
 	<Item Name="Storage" Type="Folder">
 		<Item Name="Config-INI.lvclass" Type="LVClass" URL="../Config-INI/Config-INI.lvclass"/>
+		<Item Name="Config-JSON.lvclass" Type="LVClass" URL="../Config-JSON/Config-JSON.lvclass"/>
 	</Item>
 	<Item Name="Config Element.lvclass" Type="LVClass" URL="../Config Element/Config Element.lvclass"/>
 	<Item Name="Config Lookup.lvclass" Type="LVClass" URL="../Config Lookup/Config Lookup.lvclass"/>
