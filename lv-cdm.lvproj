@@ -12,7 +12,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="CDM-Config.lvlib" Type="Library" URL="../CDM-Config/CDM-Config.lvlib"/>
 		<Item Name="CDM-Deploy.lvlib" Type="Library" URL="../CDM-Deploy/CDM-Deploy.lvlib"/>
+		<Item Name="demo-cfg-out.ini" Type="Document" URL="../demo-cfg-out.ini"/>
+		<Item Name="demo-cfg.db" Type="Document" URL="../demo-cfg.db"/>
 		<Item Name="demo-cfg.ini" Type="Document" URL="../demo-cfg.ini"/>
+		<Item Name="demo-cfg.json" Type="Document" URL="../demo-cfg.json"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>

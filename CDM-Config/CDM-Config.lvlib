@@ -19,6 +19,7 @@
 	</Item>
 	<Item Name="Scratch" Type="Folder">
 		<Item Name="INI to SQLite.vi" Type="VI" URL="../INI to SQLite.vi"/>
+		<Item Name="SQLite to JSON.vi" Type="VI" URL="../SQLite to JSON.vi"/>
 		<Item Name="Test Config Load.vi" Type="VI" URL="../Test Config Load.vi"/>
 	</Item>
 	<Item Name="Storage" Type="Folder">
