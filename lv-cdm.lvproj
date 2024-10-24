@@ -53,6 +53,10 @@
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Delimiter.vi" Type="VI" URL="../CDM-Config/Config Manager/Delimiter.vi"/>
+			<Item Name="Load Config.vi" Type="VI" URL="../CDM-Config/Config Manager/Load Config.vi"/>
+			<Item Name="Save Config.vi" Type="VI" URL="../CDM-Config/Config Manager/Save Config.vi"/>
+			<Item Name="Save Overlay.vi" Type="VI" URL="../CDM-Config/Overlay Filter/Save Overlay.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

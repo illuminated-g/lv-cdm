@@ -28,7 +28,8 @@
 		<Item Name="Config-Sqlite.lvclass" Type="LVClass" URL="../Config-Sqlite/Config-Sqlite.lvclass"/>
 	</Item>
 	<Item Name="Config Element.lvclass" Type="LVClass" URL="../Config Element/Config Element.lvclass"/>
-	<Item Name="Config Lookup.lvclass" Type="LVClass" URL="../Config Lookup/Config Lookup.lvclass"/>
+	<Item Name="Config Lookup.lvclass" Type="LVClass" URL="../Config Filter/Config Lookup.lvclass"/>
 	<Item Name="Config Manager.lvclass" Type="LVClass" URL="../Config Manager/Config Manager.lvclass"/>
 	<Item Name="Config Storage.lvclass" Type="LVClass" URL="../Config Storage/Config Storage.lvclass"/>
+	<Item Name="Overlay Filter.lvclass" Type="LVClass" URL="../Overlay Filter/Overlay Filter.lvclass"/>
 </Library>
