@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="Conversion" Type="Folder">
+		<Item Name="Convert Config.vi" Type="VI" URL="../Convert Config.vi"/>
 		<Item Name="From ISO8601 String.vi" Type="VI" URL="../From ISO8601 String.vi"/>
 		<Item Name="Hierarchy to Name.vi" Type="VI" URL="../Hierarchy to Name.vi"/>
 		<Item Name="To ISO8601 String.vi" Type="VI" URL="../To ISO8601 String.vi"/>
