@@ -23,6 +23,7 @@
 		<Item Name="INI to SQLite.vi" Type="VI" URL="../INI to SQLite.vi"/>
 		<Item Name="SQLite to JSON.vi" Type="VI" URL="../SQLite to JSON.vi"/>
 		<Item Name="Test Config Load.vi" Type="VI" URL="../Test Config Load.vi"/>
+		<Item Name="Test Subtree.vi" Type="VI" URL="../Test Subtree.vi"/>
 	</Item>
 	<Item Name="Storage" Type="Folder">
 		<Item Name="Config-INI.lvclass" Type="LVClass" URL="../Config-INI/Config-INI.lvclass"/>
