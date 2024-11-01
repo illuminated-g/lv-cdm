@@ -29,27 +29,16 @@
 	<Item Name="Config-INI.ctl" Type="Class Private Data" URL="Config-INI.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="_Callbacks" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-	</Item>
-	<Item Name="Community" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
-	</Item>
-	<Item Name="Private" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Data Types" Type="Folder"/>
-	</Item>
-	<Item Name="Properties" Type="Folder"/>
 	<Item Name="Protected" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		<Item Name="Load Config.vi" Type="VI" URL="../Load Config.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'4!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!J%%.%43V$&lt;WZG;7=O&lt;(:M;7)71W^O:GFH)%6M:7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!31W^O:GFH)%6M:7VF&lt;H1A&lt;X6U!!!71%!!!@````]!"1B&amp;&lt;'6N:7ZU=Q!!0E"Q!"Y!!#511U2.,5.P&lt;G:J:SZM&gt;GRJ9B*$&lt;WZG;7=N35Z*,GRW9WRB=X-!$E.P&lt;G:J:SV*4EEA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$R!=!!?!!!F%%.%43V$&lt;WZG;7=O&lt;(:M;7)31W^O:GFH,5F/33ZM&gt;G.M98.T!!V$&lt;WZG;7=N35Z*)'FO!&amp;1!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!"!!*!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#1!!!!!!%!#A!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)W!!!!%1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````]*2H6M&lt;#"/97VF!":!1!!"`````Q!&amp;#5BJ:8*B=G.I?1!/1$$`````"6:B&lt;(6F!!Z!-0````]%4G&amp;N:1!!0Q$R!!!!!!!!!!)11U2.,5.P&lt;G:J:SZM&gt;GRJ9AV.:82B)%2B&gt;'%O9X2M!"B!5!!#!!A!"QF.:82B)%2B&gt;'%!&amp;E"!!!(`````!!E*476U93"%982B!&amp;!!]1!!!!!!!!!#%%.%43V$&lt;WZG;7=O&lt;(:M;7)31W^O:GFH)%6M:7VF&lt;H1O9X2M!#2!5!!$!!9!"Q!+%E.P&lt;G:J:S"&amp;&lt;'6N:7ZU)'^V&gt;!!!&amp;E"!!!(`````!!M)27RF&lt;76O&gt;(-!!$Z!=!!?!!!F%%.%43V$&lt;WZG;7=O&lt;(:M;7)31W^O:GFH,5F/33ZM&gt;G.M98.T!!Z$&lt;WZG;7=N35Z*)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!]1(!!(A!!*2"$2%UN1W^O:GFH,GRW&lt;'FC%E.P&lt;G:J:SV*4EEO&lt;(:D&lt;'&amp;T=Q!.1W^O:GFH,5F/33"J&lt;A"5!0!!$!!$!!1!$!!.!!1!"!!%!!1!$A!%!!1!$Q-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!E!!!!!!"!"!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 		</Item>
 		<Item Name="Persist Config.vi" Type="VI" URL="../Persist Config.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$Z!=!!?!!!F%%.%43V$&lt;WZG;7=O&lt;(:M;7)31W^O:GFH,5F/33ZM&gt;G.M98.T!!Z$&lt;WZG;7=N35Z*)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Y1(!!(A!!+2"$2%UN1W^O:GFH,GRW&lt;'FC&amp;E.P&lt;G:J:S"&amp;&lt;'6N:7ZU,GRW9WRB=X-!"&amp;*P&lt;X1!!$R!=!!?!!!F%%.%43V$&lt;WZG;7=O&lt;(:M;7)31W^O:GFH,5F/33ZM&gt;G.M98.T!!V$&lt;WZG;7=N35Z*)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!")!!!#1!!!!!!%!#1!!!!!</Property>
@@ -63,7 +52,6 @@
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Data Types" Type="Folder"/>
 		<Item Name="Init.vi" Type="VI" URL="../Init.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%J!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$Z!=!!?!!!F%%.%43V$&lt;WZG;7=O&lt;(:M;7)31W^O:GFH,5F/33ZM&gt;G.M98.T!!Z$&lt;WZG;7=N35Z*)'^V&gt;!!!(%!Q`````R*/97VF)%2F&lt;'FN;82F=C!I,CE!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%E!S`````QB*4EEA5'&amp;U;!!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!'!!=!"!!%!!A#!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!##!!!!!A!!!!!!!!!!!!!!")!!!!!!1!*!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
