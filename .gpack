@@ -1,0 +1,10 @@
+{
+  "Info":{
+    "Name":"git:lv-cdm",
+    "Type":"git",
+    "Source":"git@github.com:illuminated-g/lv-cdm.git",
+    "Branch":"main",
+    "Version":"31421a70770cccd1853d9789e095e5ce8b58b0cd"
+  },
+  "Dependencies":[]
+}
