@@ -32,6 +32,7 @@
 		<Item Name="Config-Sqlite.lvclass" Type="LVClass" URL="../Config-Sqlite/Config-Sqlite.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
+		<Item Name="Exact Match Pattern.vi" Type="VI" URL="../Exact Match Pattern.vi"/>
 		<Item Name="Populate Tree View.vi" Type="VI" URL="../Populate Tree View.vi"/>
 	</Item>
 	<Item Name="Config Element.lvclass" Type="LVClass" URL="../Config Element/Config Element.lvclass"/>
