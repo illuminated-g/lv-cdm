@@ -16,6 +16,7 @@
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="Config Element.ctl" Type="VI" URL="../Config Element.ctl"/>
 		<Item Name="Meta Data.ctl" Type="VI" URL="../Meta Data.ctl"/>
+		<Item Name="Meta Filter.ctl" Type="VI" URL="../Meta Filter.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
 	</Item>
 	<Item Name="Scratch" Type="Folder">
