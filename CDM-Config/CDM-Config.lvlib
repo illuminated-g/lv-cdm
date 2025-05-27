@@ -18,6 +18,7 @@
 		<Item Name="Meta Data.ctl" Type="VI" URL="../Meta Data.ctl"/>
 		<Item Name="Meta Filter.ctl" Type="VI" URL="../Meta Filter.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
+		<Item Name="Value Type.ctl" Type="VI" URL="../Value Type.ctl"/>
 	</Item>
 	<Item Name="Scratch" Type="Folder">
 		<Item Name="Build Demo Config.vi" Type="VI" URL="../Build Demo Config.vi"/>
@@ -25,6 +26,7 @@
 		<Item Name="SQLite to JSON.vi" Type="VI" URL="../SQLite to JSON.vi"/>
 		<Item Name="Test Config Load.vi" Type="VI" URL="../Test Config Load.vi"/>
 		<Item Name="Test Config Save.vi" Type="VI" URL="../Test Config Save.vi"/>
+		<Item Name="Test Element to Type.vi" Type="VI" URL="../Test Element to Type.vi"/>
 		<Item Name="Test Subtree.vi" Type="VI" URL="../Test Subtree.vi"/>
 	</Item>
 	<Item Name="Storage" Type="Folder">
