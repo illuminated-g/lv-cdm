@@ -18,12 +18,13 @@
 	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="Config Element.ctl" Type="VI" URL="../Config Element.ctl"/>
-		<Item Name="Format Config.ctl" Type="VI" URL="../Format Config.ctl"/>
 		<Item Name="Format.ctl" Type="VI" URL="../Format.ctl"/>
+		<Item Name="ISO8601 Config.ctl" Type="VI" URL="../ISO8601 Config.ctl"/>
 		<Item Name="Meta Data.ctl" Type="VI" URL="../Meta Data.ctl"/>
 		<Item Name="Meta Filter.ctl" Type="VI" URL="../Meta Filter.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
 		<Item Name="Precision.ctl" Type="VI" URL="../Precision.ctl"/>
+		<Item Name="Timezone.ctl" Type="VI" URL="../Timezone.ctl"/>
 		<Item Name="Value Type.ctl" Type="VI" URL="../Value Type.ctl"/>
 	</Item>
 	<Item Name="Scratch" Type="Folder">
