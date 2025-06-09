@@ -11,13 +11,19 @@
 		<Item Name="Convert Config.vi" Type="VI" URL="../Convert Config.vi"/>
 		<Item Name="From ISO8601 String.vi" Type="VI" URL="../From ISO8601 String.vi"/>
 		<Item Name="Hierarchy to Name.vi" Type="VI" URL="../Hierarchy to Name.vi"/>
+		<Item Name="ISO-8601 Format Strings.vi" Type="VI" URL="../ISO-8601 Format Strings.vi"/>
+		<Item Name="Normalize Path String.vi" Type="VI" URL="../Normalize Path String.vi"/>
+		<Item Name="Path to String.vi" Type="VI" URL="../Path to String.vi"/>
 		<Item Name="To ISO8601 String.vi" Type="VI" URL="../To ISO8601 String.vi"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="Config Element.ctl" Type="VI" URL="../Config Element.ctl"/>
+		<Item Name="Format Config.ctl" Type="VI" URL="../Format Config.ctl"/>
+		<Item Name="Format.ctl" Type="VI" URL="../Format.ctl"/>
 		<Item Name="Meta Data.ctl" Type="VI" URL="../Meta Data.ctl"/>
 		<Item Name="Meta Filter.ctl" Type="VI" URL="../Meta Filter.ctl"/>
 		<Item Name="Node Info.ctl" Type="VI" URL="../Node Info.ctl"/>
+		<Item Name="Precision.ctl" Type="VI" URL="../Precision.ctl"/>
 		<Item Name="Value Type.ctl" Type="VI" URL="../Value Type.ctl"/>
 	</Item>
 	<Item Name="Scratch" Type="Folder">

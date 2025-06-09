@@ -13,6 +13,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Malleable" Type="Folder">
+			<Item Name="Element to Type.vim" Type="VI" URL="../CDM-Config/Element to Type.vim"/>
+			<Item Name="Type to Config.vim" Type="VI" URL="../CDM-Config/Config-JSON/Type to Config.vim"/>
+		</Item>
 		<Item Name="CDM-Config.lvlib" Type="Library" URL="../CDM-Config/CDM-Config.lvlib"/>
 		<Item Name="demo-cfg-out.ini" Type="Document" URL="../demo-cfg-out.ini"/>
 		<Item Name="demo-cfg.db" Type="Document" URL="../demo-cfg.db"/>
