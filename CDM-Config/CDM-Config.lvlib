@@ -35,6 +35,7 @@
 		<Item Name="Test Config Save.vi" Type="VI" URL="../Test Config Save.vi"/>
 		<Item Name="Test Element to Type.vi" Type="VI" URL="../Test Element to Type.vi"/>
 		<Item Name="Test Subtree.vi" Type="VI" URL="../Test Subtree.vi"/>
+		<Item Name="Test Type Conversion.vi" Type="VI" URL="../Test Type Conversion.vi"/>
 	</Item>
 	<Item Name="Storage" Type="Folder">
 		<Item Name="Config-INI.lvclass" Type="LVClass" URL="../Config-INI/Config-INI.lvclass"/>
