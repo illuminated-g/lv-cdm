@@ -34,6 +34,7 @@
 		<Item Name="Test Config Load.vi" Type="VI" URL="../Test Config Load.vi"/>
 		<Item Name="Test Config Save.vi" Type="VI" URL="../Test Config Save.vi"/>
 		<Item Name="Test Element to Type.vi" Type="VI" URL="../Test Element to Type.vi"/>
+		<Item Name="Test Load Tree.vi" Type="VI" URL="../Test Load Tree.vi"/>
 		<Item Name="Test Subtree.vi" Type="VI" URL="../Test Subtree.vi"/>
 		<Item Name="Test Type Conversion.vi" Type="VI" URL="../Test Type Conversion.vi"/>
 	</Item>
