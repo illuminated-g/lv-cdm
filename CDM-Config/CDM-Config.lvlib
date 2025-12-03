@@ -28,6 +28,7 @@
 		<Item Name="Value Type.ctl" Type="VI" URL="../Value Type.ctl"/>
 	</Item>
 	<Item Name="Scratch" Type="Folder">
+		<Item Name="Array Tests.vi" Type="VI" URL="../Array Tests.vi"/>
 		<Item Name="Build Demo Config.vi" Type="VI" URL="../Build Demo Config.vi"/>
 		<Item Name="INI to SQLite.vi" Type="VI" URL="../INI to SQLite.vi"/>
 		<Item Name="SQLite to JSON.vi" Type="VI" URL="../SQLite to JSON.vi"/>
