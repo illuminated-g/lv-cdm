@@ -38,6 +38,7 @@
 		<Item Name="Test Load Tree.vi" Type="VI" URL="../Test Load Tree.vi"/>
 		<Item Name="Test Subtree.vi" Type="VI" URL="../Test Subtree.vi"/>
 		<Item Name="Test Type Conversion.vi" Type="VI" URL="../Test Type Conversion.vi"/>
+		<Item Name="Weather Parse Test.vi" Type="VI" URL="../Weather Parse Test.vi"/>
 	</Item>
 	<Item Name="Storage" Type="Folder">
 		<Item Name="Config-INI.lvclass" Type="LVClass" URL="../Config-INI/Config-INI.lvclass"/>
