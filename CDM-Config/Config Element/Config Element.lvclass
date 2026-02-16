@@ -114,6 +114,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
+		<Item Name="Parent Index.vi" Type="VI" URL="../Parent Index.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%5!!!!#1!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!1!#!!-*:8*S&lt;X)A&lt;X6U!".!!Q!-5'&amp;S:7ZU)%FO:'6Y!!!A1&amp;!!!Q!"!!)!!R.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%2!=!!?!!!J%%.%43V$&lt;WZG;7=O&lt;(:M;7)71W^O:GFH)%6M:7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!21W^O:GFH)%6M:7VF&lt;H1A;7Y!6!$Q!!Q!!!!!!!1!"1!!!!!!!!!!!!!!!!!'!!=$!!"Y!!!!!!!!!!!!!!E!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!"!!!!!!!1!)!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">4</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
 		<Item Name="Set Index.vi" Type="VI" URL="../Set Index.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;@!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!J%%.%43V$&lt;WZG;7=O&lt;(:M;7)71W^O:GFH)%6M:7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!31W^O:GFH)%6M:7VF&lt;H1A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!N!!Q!&amp;37ZE:8A!2%"Q!"Y!!#E11U2.,5.P&lt;G:J:SZM&gt;GRJ9B:$&lt;WZG;7=A27RF&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;$&lt;WZG;7=A27RF&lt;76O&gt;#"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!1!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
