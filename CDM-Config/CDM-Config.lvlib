@@ -44,6 +44,7 @@
 		<Item Name="Config-INI.lvclass" Type="LVClass" URL="../Config-INI/Config-INI.lvclass"/>
 		<Item Name="Config-JSON.lvclass" Type="LVClass" URL="../Config-JSON/Config-JSON.lvclass"/>
 		<Item Name="Config-Sqlite.lvclass" Type="LVClass" URL="../Config-Sqlite/Config-Sqlite.lvclass"/>
+		<Item Name="Config-YAML.lvclass" Type="LVClass" URL="../Config-YAML/Config-YAML.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Exact Match Pattern.vi" Type="VI" URL="../Exact Match Pattern.vi"/>
